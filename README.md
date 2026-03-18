@@ -1,4 +1,4 @@
-# MPS – Molecular Dynamics Simulations: Mechanisms of Protein-Ligand Binding at TUM
+# Protein–Ligand MD Simulations at TUM
 
 A collection of Jupyter notebooks for running and analysing molecular dynamics (MD) simulations of protein–ligand complexes, developed as part of a research project at the Technical University of Munich (TUM). The workflow covers everything from system preparation and production MD to free energy calculations using umbrella sampling and the Weighted Histogram Analysis Method (WHAM).
 
